@@ -4,7 +4,7 @@
 let numLines = Number(prompt("inserte el numero de lineas para generar"));
 for (let i = 1; i <= numLines; i++){
   for (let j = 1; j <= i; j++){
-    console.log("-");
-  }
-  console.log("\n");
-}
+    console.log(i);
+  };
+  
+};
