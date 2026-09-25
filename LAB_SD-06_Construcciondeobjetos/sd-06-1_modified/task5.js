@@ -17,7 +17,7 @@ const nombres_num = Number(prompt("cuantos nombres quieres insertar?"));
 for (let i = 1; i<= nombres_num; i++){
 
     const nombres = prompt("inserte el nombre " + i + ":");
-
+    //guardar nombres
     miLista.nombreDelArray.push(nombres);
 };
 
