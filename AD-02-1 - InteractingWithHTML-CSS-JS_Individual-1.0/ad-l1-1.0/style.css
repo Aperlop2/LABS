@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#title3 {
+  color: red;
+
+}
+
+#title2 {
+  color: blue;
+}
+  
+h1 {
+  color: green;
+}
+
+#red{
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
