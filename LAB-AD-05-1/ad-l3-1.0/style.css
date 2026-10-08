@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+/* HACER QUE EL FONDO SEA GRIS */
+body {
+  background-color: #a7a6a6;
+}
+
+h3 {
+  color: green;
+}
