@@ -6,4 +6,4 @@ for (let i = 1; i <= 105; i++) {
   } else {
     console.log(i);
   }
-}
+};
